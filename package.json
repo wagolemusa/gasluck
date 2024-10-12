@@ -20,6 +20,7 @@
     "countries-list": "^3.1.1",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.5.0",
+    "mdb-react-ui-kit": "^9.0.0",
     "next": "14.2.15",
     "next-auth": "^4.24.8",
     "next-connect": "^1.0.0",
